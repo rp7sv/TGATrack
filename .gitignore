@@ -23,6 +23,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 *.pth.tar
+.vscode
+.vs
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
