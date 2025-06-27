@@ -1,4 +1,4 @@
-# Visual Prompt Multi-Modal Tracking [ICME'2025 Oral]
+# Template-Guided Low-Rank Adaption for Robust RGB-T Tracking [ICME'2025 Oral]
 Official implementation of [**TGATtrack**](https://arxiv.org/abs/2303.10826), including models and training&testing codes.
 
 [Models & Raw Results](https://drive.google.com/drive/folders/19RjO_cabtJLzbIoYqDM4JPFjARrkidMD?usp=drive_link)
